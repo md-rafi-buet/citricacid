@@ -1,5 +1,0 @@
-# citricacid
-Citric acid production process path
-Industrial Citric Acid Production Superstructure (Explicit Industrial Material Flow Representation)
-
-This example models a full-scale industrial citric acid manufacturing process using P-Graph process synthesis. The model includes three alternative renewable feedstocks (molasses, corn, and crude glycerol), detailed pretreatment trains, fermentation, interchangeable primary separation technologies, downstream recovery, purification, crystallization, drying, and packaging. Auxiliary chemicals (water, acids, alkalis, enzymes, and milk of lime), by-products, and waste streams are represented explicitly as material nodes, enabling complete process synthesis and visualization. The framework automatically augments raw materials, constructs the maximal superstructure, enumerates all irreducible process pathways (12 feasible configurations), and exports publication-quality GraphViz process flow diagrams. This example is intended to demonstrate industrial-scale process synthesis for biorefinery and chemical process systems engineering
